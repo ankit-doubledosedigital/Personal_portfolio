@@ -35,24 +35,38 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Software Developer
+                Full Stack Developer
+                  
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Company Name
+                  Double Dose Digital
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   June 2024 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                A versatile Full Stack Developer at Double Dose Digital, adept at crafting robust web applications using the MERN stack. With a strong focus on both front-end and back-end development, I excel in creating seamless user experiences, optimizing performance, and delivering scalable solutions. Passionate about coding and innovation
                 </p>
               </div>
+              {/* design */}
+              <div className=" flex flex-col gap-1 sm:gap-1  mt-3 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Full Stack Developer Trainee
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Agami Technologies
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  June 2023- 3 Months
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                A highly motivated Trainee Full Stack Developer at Agami Technologies, skilled in both front-end and back-end development. Proficient in JavaScript, React, Node.js, and databases like MongoDB. Passionate about learning and implementing new technologies to build robust and user-friendly applications. Strong problem-solving abilities and a collaborative team player.
+                </p>
+              </div>
+              
+              
             </div>
+
           </fieldset>
         </div>
         <div className="right flex-1 flex items-center justify-center">
@@ -73,21 +87,32 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  B.Tech, Computer Science
+                  MCA, Computer Science
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  College Name
+                  GALGOTIAS UNIVERSITY
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2024 - Year 8
+                  Year 2023
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                A Master of Computer Applications (MCA) graduate from Galgotias University, I have honed my technical and analytical skills through rigorous coursework and hands-on projects. With a strong foundation in software development, database management, and emerging technologies, I am equipped to deliver innovative solutions. My academic journey reflects a commitment to excellence and continuous learning.
+                </p>
+              </div>
+              {/* design */}
+
+              <div className=" flex flex-col gap-1 border-2 mt-3 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  BCA, Computer Science
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  DR Bhim RAO AMBEDKAR UNIVERSITY
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  Year 2021
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-500">
+                A Bachelor of Computer Applications (BCA) graduate with a strong foundation in programming, software development, and database management. Skilled in multiple programming languages, web technologies, and system analysis. Proven ability to work on both front-end and back-end projects, with a focus on creating efficient and user-friendly applications. Ready to contribute to innovative tech solutions.
                 </p>
               </div>
             </div>

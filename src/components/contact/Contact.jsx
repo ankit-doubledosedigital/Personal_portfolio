@@ -40,31 +40,31 @@ const Contact = () => {
           </div>
         </div>
         <div className="right flex-1">
-          <form
+          <form 
             
             data-aos="zoom-in"
             
             className="flex justify-center items-center flex-col gap-5 w-[70%] md:w-[100%] sm:w-[95%] mx-auto"
-            action="mailto:xyz@gmail.com"
+            action="https://getform.io/f/9c5c988b-502f-4840-b21a-59463339366e"
           >
             <input
               className="px-3 shadow-[0_0_16px_0px_rgba(0,0,0,0.1)] p-2 rounded-lg w-full"
               type="email"
               placeholder="e.g. example@email.com"
-              name=""
+              name="email"
             />
             <input
               className="px-3 shadow-[0_0_16px_0px_rgba(0,0,0,0.1)] p-2 rounded-lg w-full"
               type="text"
               placeholder="e.g. John Doe"
-              name=""
+              name="text"
             />
             <textarea
               className="px-3 shadow-[0_0_16px_0px_rgba(0,0,0,0.1)] p-2 rounded-lg w-full"
               rows="4"
               cols="50"
               placeholder="Write your message"
-              name=""
+              name="textarea"
               id=""
             />
             <button

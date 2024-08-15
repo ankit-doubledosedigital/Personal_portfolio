@@ -10,6 +10,8 @@ import {
   SiTailwindcss,
   SiMongodb,
   SiExpress,
+  SiWordpress,
+  SiWebflow,
 } from "react-icons/si";
 import { GrCode } from "react-icons/gr";
 import { SiNextdotjs } from "react-icons/si";
@@ -53,6 +55,16 @@ const Skills = ({ darkMode }) => {
                 <ProgressBar
                   logo={<SiTailwindcss />}
                   name={"Tailwind CSS"}
+                  value={80}
+                />
+                <ProgressBar
+                  logo={<SiWordpress />}
+                  name={"Wordpress"}
+                  value={70}
+                />
+                <ProgressBar
+                  logo={<SiWebflow />}
+                  name={"Webflow"}
                   value={80}
                 />
               </div>

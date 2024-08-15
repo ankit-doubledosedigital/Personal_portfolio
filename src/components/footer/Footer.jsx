@@ -40,7 +40,7 @@ const Footer = () => {
           </a>
         </div>
         <div className="sm:text-[12px]">
-          | Copyright &copy; <span>2024 Web Addicted </span> All rights reserved
+          | Copyright &copy; <span>2024 Ankit Pratap Singh </span> All rights reserved
           <a href="#"></a> |
         </div>
       </div>
